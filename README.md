@@ -1,6 +1,8 @@
-# Prog_Fund website
+# Prog_Fund
 
-This is a prototype website I did to learn Git and Github
+Final Project -- The Island
+
+Open landing.html to initiate
 
 ## Author
 

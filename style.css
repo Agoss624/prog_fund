@@ -1,5 +1,35 @@
-* {
-  box-sizing: border-box;
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Ariel', monospace;
+    background-color: black;
+    color: white;
 }
 
-body { background-color: #aaa; }
+#type {
+    padding: 20px;
+    height: 100%;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+#typeInput {
+    display: flex;
+    align-items: center;
+}
+
+.display {
+    margin-right: 5px;
+}
+
+#input {
+    width: 100%;
+    border: none;
+    background: none;
+    outline: none;
+    color: inherit;
+}
+.field {
+    white-space: pre;
+    font-size: 20px;
+}
