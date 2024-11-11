@@ -1,8 +1,8 @@
 # Prog_Fund
 
-Final Project -- The Island
+Final Project -- The Island.  A small text based adventure game. 
 
-Open landing.html to initiate
+Open landing.html in browser to initiate
 
 ## Author
 
